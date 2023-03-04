@@ -4,7 +4,7 @@ import pl.javastart.library.model.Book;
 
 class Library {
     public static void main(String[] args) {
-        final String appName = "Biblioteka v0.5";
+        final String appName = "Biblioteka v0.6";
 
         Book book1 = new Book("W pustyni i w puszczy", "Henryk Sienkiewicz", 2010,
                 296, "Greg", "9843423424243234");
